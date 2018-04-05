@@ -107,7 +107,7 @@ namespace Bees_Path
         }//end: updateBees()
 
         //=====================================
-        // checks if there is a collided Bees
+        // checks if there is a collided Bees - test git 1
         // and removes the crashed
         public int checkCollision()
         {
