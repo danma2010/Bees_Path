@@ -108,7 +108,7 @@ namespace Bees_Path
 
         //=====================================
         // checks if there is a collided Bees - test git 1 test git 2 test-branch_a 4
-        // and removes the crashed
+        // and removes the crashed - test 6;
         public int checkCollision()
         {
             double distance = 0.0;
