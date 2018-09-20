@@ -107,7 +107,7 @@ namespace Bees_Path
         }//end: updateBees()
 
         //=====================================
-        // checks if there is a collided Bees - test git 1 test git 2 test-branch_a 4
+        // checks if there is a collided Bees - test git 1 test git 2 test-branch_a 4 > this change is on develop branch
         // and removes the crashed - test 6;
         public int checkCollision()
         {
